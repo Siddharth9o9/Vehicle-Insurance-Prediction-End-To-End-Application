@@ -1,2 +1,3 @@
 # Vehicle-Insurance-Prediction-End-To-End-Application
-An end to end Vehicle Insurance Cost prediction application which can predict the insurance cost based on certain features. Complete MLOPS project with robust pipeline.
+An end to end ML Application which is trained on a large dataset of Vehicle Insurance. Based on the inputs, the application predicts whether a customer is going to buy the insurance or not. 
+Complete MLOPS project with Data Preprocessing, Model Training, Robust end-to-end Pipeline, Docker for image contenarization, CICD pipeline, deployed on AWS EC2 Server.
